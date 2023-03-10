@@ -1,0 +1,38 @@
+* {
+    font-family: 'Libre Baskerville', serif;
+}
+
+.contents {
+    color: #1b2227;
+    padding-left: 32px;
+    padding-bottom: 32px;
+}
+
+.heading {
+    color: #800808;
+    text-align: center;
+}
+
+._heading {
+    color: black;
+}
+
+.name {
+    font-size: 17px;
+}
+
+._google {
+    height: 128px;
+    width: 128px;
+    border: 2px dashed #800808;
+    border-radius: 10px;
+}
+
+table {
+    border-spacing: 2px;
+}
+
+th, td {
+    padding: 8px;
+    text-align: center;
+}
